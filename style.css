@@ -1,0 +1,37 @@
+*{margin: 0;
+padding: 0;}
+.container{
+        background-color: rgba(247, 244, 244, 0.842);
+        border-radius: 5px;
+}
+
+.row{
+    background-color: rgba(247, 244, 244, 0.842);
+    margin: 2px 112px;
+    border-radius: 10px;
+}
+.card-deck{ margin: 10px 50px;
+             padding: 10px;
+    
+            }
+.card{ margin: 10px 10px;
+        padding: 10px;
+        border: none;
+    }
+.card-footer{ font-size: 15px;}
+.card-footer p{  
+                color: brown; 
+}
+
+.row bg-row ul{  background-color: rgb(15, 17, 15);
+                list-style: none;
+            
+            }
+    .test{ padding-top: 40px;} 
+
+    .list3{ list-style-type: none;
+    padding: 20px;} 
+    
+    
+   
+
